@@ -174,5 +174,11 @@
       <SearchPattern><![CDATA[Arrow online rsa Student Guide]]></SearchPattern>
       <ReplaceText><![CDATA[Online RSA Student Guide]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[© 2007-2018, Arrow Training &amp; eLearning Portal Pty Ltd]]></SearchPattern>
+      <ReplaceText><![CDATA[Copyright &nbsp;5 Star Hospitality Training RTO# 45332&nbsp;© 2007-2018&nbsp; All rights reserved.]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
