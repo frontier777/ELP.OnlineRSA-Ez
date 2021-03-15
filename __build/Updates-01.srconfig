@@ -150,5 +150,29 @@
 
 ]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[https://5starhospitalitytraining.com.au/wp-content/uploads/2018/06/5_Star_Hospitality_Training_Student_Handbook-Online_Training%E2%80%93-V1.00-20180130.pdf]]></SearchPattern>
+      <ReplaceText><![CDATA[https://5staronlinetraining.com.au/wp-content/uploads/5-STAR-Student_Handbook-Online_Training.pdf]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[https://5starhospitalitytraining.com.au/wp-content/uploads/2018/06/5_Star_Hospitality_Training_Student_Handbook-Online_Training–-V1.00-20180130.pdf]]></SearchPattern>
+      <ReplaceText><![CDATA[https://5staronlinetraining.com.au/wp-content/uploads/5-STAR-Student_Handbook-Online_Training.pdf]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[https://learn.elearningportal.com.au/~Static/elp/shared/attachments/Arrow_Training_Current_Learner_Guide.pdf]]></SearchPattern>
+      <ReplaceText><![CDATA[https://5staronlinetraining.com.au/wp-content/uploads/5-STAR-Student_Handbook-Online_Training.pdf]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[Arrow online rsa Student Guide]]></SearchPattern>
+      <ReplaceText><![CDATA[Online RSA Student Guide]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
