@@ -20,6 +20,18 @@ REM /First
 REM /Verbose
 REM POPD
 
+REM Sync abbreviation pages
+PUSHD RSA-Online-Training
+COPY "RSA-Online-ACT-Australian-Capital-Territory-RSA-Certificate.html" "RSA-Online-ACT.html"
+COPY "RSA-Online-NSW-New-South-Wales-RSA-Certificate.html" "RSA-Online-NSW.html"
+COPY "RSA-Online-NT-Northern-Territory-RSA-Certificate.html" "RSA-Online-NT.html"
+COPY "RSA-Online-QLD-Queensland-RSA-Certificate.html" "RSA-Online-QLD.html"
+COPY "RSA-Online-SA-South-Australia-RSA-Certificate.html" "RSA-Online-SA.html"
+COPY "RSA-Online-TAS-Tasmania-RSA-Certificate.html" "RSA-Online-TAS.html"
+COPY "RSA-Online-VIC-Victoria-RSA-Certificate.html" "RSA-Online-Vic.html"
+COPY "RSA-Online-WA-Western-Australia-RSA-Certificate.html" "RSA-Online-WA.html"
+POPD
+
 SET ExitCode=0
 GOTO Success
 
