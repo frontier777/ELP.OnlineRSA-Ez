@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Actions>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[Nationally recognised statement of attainment valid in QLD, WA, ACT, SA, TAS, NT&nbsp;]]></SearchPattern>
+      <ReplaceText><![CDATA[Nationally recognised statement of attainment valid in QLD, WA, ACT, TAS, NT]]></ReplaceText>
+    </Action>
+  </Actions>
+</Config>
