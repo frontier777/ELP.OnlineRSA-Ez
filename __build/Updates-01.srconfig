@@ -65,5 +65,11 @@
 
 <li>You will be required to demonstrate your skills in a suitable simulated industry environment via video - <a href="http://www.onlinersa.com.au/rsa/FAQ/Technical-Details#iphone_and_ipad">More details</a></li>]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[With up to 6 hours of engaging online content and an additional 50 hours of supplementary reading there is plenty&nbsp;of material available for you to understand how to:&nbsp;]]></SearchPattern>
+      <ReplaceText><![CDATA[With 3-9 hours of engaging online content and additional optional supplementary reading, there is plenty of material available for you to understand how to:]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
