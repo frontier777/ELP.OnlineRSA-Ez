@@ -92,5 +92,63 @@
 
 ]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<h4 class=" text-center">How long will the assessments take?</h4>]]></SearchPattern>
+      <ReplaceText><![CDATA[<h3 class=" text-center">How long will the assessments take?</h3>]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<p>Approximate\ timings\ on\ each\ of\ the\ formal\ assessment\ tasks\ are:</p>.+?</ul>]]></SearchPattern>
+      <ReplaceText><![CDATA[
+
+<p>You will have 0.9 – 2.9 hrs of assessment across the following types of assessment:</p>
+
+<p><b>Online Written Assessments:</b></p>
+
+<ul>
+
+<li>Section 01 Why Serve Alcohol Responsibly</li>
+
+<li>Section 02 Responsible Service of Alcohol (RSA)</li>
+
+<li>Section 03 Minors</li>
+
+<li>Section 04 Unduly Intoxicated and Disorderly Patrons</li>
+
+<li>Section 05 Responsible Hospitality</li>
+
+<li>Section 06 Other Issues</li>
+
+<li>SIMBAR Assessment</li>
+
+</ul>
+
+<p><b>Interactive Simulations and Video Assessments:</b></p>
+
+<ul>
+
+<li>SIMBAR Preparing and Serving Standard Drinks</li>
+
+<li>SIMBAR Practical Demonstration of Skills Interactive Simulation</li>
+
+<li>SIMBAR Practical Demonstration of Skills Webcam Recording – Refusal of Service – Offering Food</li>
+
+<li>SIMBAR Practical Demonstration of Skills Webcam Recording – Refusal of Service – Emotional Distress</li>
+
+<li>SIMBAR Practical Demonstration of Skills Webcam Recording – Service – Illicit Substances – Refusal of Service</li>
+
+<li>SIMBAR Practical Demonstration of Skills Webcam Recording – Service – Illicit Substances – Warning</li>
+
+<li>SIMBAR Practical Demonstration of Skills Webcam Recording – Service – Illicit Substances – Call Security</li>
+
+<li>SIMBAR Practical Demonstration of Skills Webcam Recording – Using Measures</li>
+
+</ul>
+
+]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
