@@ -14,7 +14,8 @@ SET file2=%~2%
 
 REM PUSHD ..\rsa
 CD ..\rsa
-"%searchreplaceexe%" "..\__build\Updates-01.srconfig" *.html /Recurse /Backup
+"%searchreplaceexe%" "..\__build\Updates-01.srconfig" *.html /Recurse
+REM /Backup
 REM /First
 REM /Verbose
 REM POPD

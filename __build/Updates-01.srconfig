@@ -7,5 +7,27 @@
       <SearchPattern><![CDATA[Nationally recognised statement of attainment valid in QLD, WA, ACT, SA, TAS, NT&nbsp;]]></SearchPattern>
       <ReplaceText><![CDATA[Nationally recognised statement of attainment valid in QLD, WA, ACT, TAS, NT]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<h3 class=" text-center">Requirements</h3>]]></SearchPattern>
+      <ReplaceText><![CDATA[<h3 class="text-center">Requirements and Equipment</h3>]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li>Either: Microphone and/or video camera or telephone for submitting refusal responses</li>]]></SearchPattern>
+      <ReplaceText><![CDATA[<li>Access to a room with a table and blank wall</li>
+
+<li>Printer and paper, sticky tape or blue tack </li>
+
+<li>Video recording device – your smart phone is perfect</li>
+
+<li>Empty bottle, 30ml measure, (eg medicine measure or you can either, buy one form a chemist or we can post you one) a glass tumbler.</li>
+
+<li>Students must successfully complete a language, literacy and numeracy (LLN) assessment prior to starting the course</li>
+
+<li>You will be required to demonstrate your skills in a suitable simulated industry environment via video - <a href="http://www.onlinersa.com.au/rsa/FAQ/Technical-Details#iphone_and_ipad">More details</a></li>]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
