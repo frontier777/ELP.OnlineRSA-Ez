@@ -31,5 +31,23 @@
       <SearchPattern><![CDATA[ATS Arrow Training Services]]></SearchPattern>
       <ReplaceText><![CDATA[5 Star Online Training]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[ATS-Arrow-Training-Services-RTO-6127_small.png]]></SearchPattern>
+      <ReplaceText><![CDATA[5_Star_Hospitality_Training-Logo-small.png]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[ATS-Arrow-Training-Services-RTO-6127_imagefull.png]]></SearchPattern>
+      <ReplaceText><![CDATA[5_Star_Hospitality_Training-Logo-imagefull.png]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[ATS-Arrow-Training-Services-RTO-6127_gallerythumbnail.png]]></SearchPattern>
+      <ReplaceText><![CDATA[5_Star_Hospitality_Training-Logo-gallerythumbnail.png]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
