@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Actions>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[ATS-Arrow-Training-Services-RTO-6127.html]]></SearchPattern>
+      <ReplaceText><![CDATA[5_Star_Online_Training-RTO_45332.html]]></ReplaceText>
+    </Action>
+  </Actions>
+</Config>

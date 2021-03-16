@@ -19,6 +19,9 @@ REM /Backup
 REM /First
 REM /Verbose
 REM POPD
+CD ..
+"%searchreplaceexe%" "__build\Updates-02-Root.srconfig" *.html /Recurse
+
 
 REM Sync abbreviation pages
 PUSHD RSA-Online-Training
