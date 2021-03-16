@@ -61,5 +61,11 @@
       <SearchPattern><![CDATA[ATS-Arrow-Training-Services-RTO-6127_gallerythumbnail.png]]></SearchPattern>
       <ReplaceText><![CDATA[5_Star_Hospitality_Training-Logo-gallerythumbnail.png]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[RTO# 45332]]></SearchPattern>
+      <ReplaceText><![CDATA[RTO #45332]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
