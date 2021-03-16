@@ -19,9 +19,6 @@ REM /Backup
 REM /First
 REM /Verbose
 REM POPD
-CD ..
-"%searchreplaceexe%" "__build\Updates-02-Root.srconfig" *.html /Recurse
-
 
 REM Sync abbreviation pages
 PUSHD RSA-Online-Training
@@ -34,6 +31,10 @@ COPY "RSA-Online-TAS-Tasmania-RSA-Certificate.html" "RSA-Online-TAS.html"
 COPY "RSA-Online-VIC-Victoria-RSA-Certificate.html" "RSA-Online-Vic.html"
 COPY "RSA-Online-WA-Western-Australia-RSA-Certificate.html" "RSA-Online-WA.html"
 POPD
+
+CD ..
+"%searchreplaceexe%" "__build\Updates-02-Root.srconfig" *.html /Recurse
+
 
 SET ExitCode=0
 GOTO Success
