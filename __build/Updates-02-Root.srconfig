@@ -19,5 +19,11 @@
       <SearchPattern><![CDATA[ATS Arrow Training Services RTO 6127]]></SearchPattern>
       <ReplaceText><![CDATA[5 Star Online Training RTO 45332]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[ATS Arrow Training Services.html]]></SearchPattern>
+      <ReplaceText><![CDATA[5_Star_Online_Training.html]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
