@@ -34,6 +34,18 @@
     <Action>
       <SearchEscape>true</SearchEscape>
       <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[RSA Online delivered by RTO #6127]]></SearchPattern>
+      <ReplaceText><![CDATA[RSA Online delivered by RTO #45332]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[Arrow Training RTO #6127]]></SearchPattern>
+      <ReplaceText><![CDATA[5 Star Online Training RTO #45332]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
       <SearchPattern><![CDATA[ATS-Arrow-Training-Services-RTO-6127_small.png]]></SearchPattern>
       <ReplaceText><![CDATA[5_Star_Hospitality_Training-Logo-small.png]]></ReplaceText>
     </Action>
