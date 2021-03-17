@@ -67,5 +67,11 @@
       <SearchPattern><![CDATA[RTO# 45332]]></SearchPattern>
       <ReplaceText><![CDATA[RTO #45332]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[{"frameCount":1,"id":35,"type":7,"tags":[{"depth":1,"id":34,"type":3,"matrix":0}]]></SearchPattern>
+      <ReplaceText><![CDATA[{"frameCount":1,"id":35,"type":7,"tags":[{"depth":1,"id":2,"type":3,"matrix":0}]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
