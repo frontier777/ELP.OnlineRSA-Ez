@@ -10,8 +10,20 @@
     <Action>
       <SearchEscape>true</SearchEscape>
       <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[Nationally recognised statement of attainment valid in QLD, WA, ACT, TAS, NT]]></SearchPattern>
+      <ReplaceText><![CDATA[Nationally recognised statement of attainment valid in QLD, WA, ACT, NT, SA, TAS]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
       <SearchPattern><![CDATA[<li>This nationally recognised course is&nbsp;<b>specific for the Australian Capital Territory&nbsp;</b>but also valid in QLD, WA, NT, SA, TAS.</li>]]></SearchPattern>
       <ReplaceText><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>ACT, QLD, WA, NT, &amp; TAS</b>.</li>]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>ACT, QLD, WA, NT, &amp; TAS</b>.</li>]]></SearchPattern>
+      <ReplaceText><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>ACT, QLD, WA, NT, SA &amp; TAS</b>.</li>]]></ReplaceText>
     </Action>
     <Action>
       <SearchEscape>true</SearchEscape>
@@ -22,8 +34,20 @@
     <Action>
       <SearchEscape>true</SearchEscape>
       <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>WA, NT, QLD, ACT &amp; TAS</b>.</li>]]></SearchPattern>
+      <ReplaceText><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>WA, NT, QLD, ACT, SA &amp; TAS</b>.</li>]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
       <SearchPattern><![CDATA[<li>The&nbsp;<b>nationally recognised</b>&nbsp;statement of attainment issued is valid in<b>&nbsp;QLD,&nbsp;WA, SA, NT, ACT &amp; TAS.</b></li>]]></SearchPattern>
       <ReplaceText><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>QLD, WA, NT, ACT &amp; TAS</b>.</li>]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>QLD, WA, NT, ACT &amp; TAS</b>.</li>]]></SearchPattern>
+      <ReplaceText><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>QLD, WA, NT, ACT, SA &amp; TAS</b>.</li>]]></ReplaceText>
     </Action>
     <Action>
       <SearchEscape>true</SearchEscape>
@@ -34,13 +58,31 @@
     <Action>
       <SearchEscape>true</SearchEscape>
       <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>TAS, QLD, WA, NT &amp; ACT</b>.</li>]]></SearchPattern>
+      <ReplaceText><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>TAS, QLD, WA, NT, SA &amp; ACT</b>.</li>]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
       <SearchPattern><![CDATA[<li>The&nbsp;<b>nationally recognised</b>&nbsp;statement of attainment&nbsp;issued is valid in&nbsp;<b>WA, SA, NT, QLD, ACT &amp; TAS</b>.</li>]]></SearchPattern>
       <ReplaceText><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>WA, QLD, NT, ACT &amp; TAS</b>.</li>]]></ReplaceText>
     </Action>
     <Action>
       <SearchEscape>true</SearchEscape>
       <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>WA, QLD, NT, ACT &amp; TAS</b>.</li>]]></SearchPattern>
+      <ReplaceText><![CDATA[<li><b>Nationally recognised</b> statement of attainment issued is valid in <b>WA, QLD, NT, ACT, SA &amp; TAS</b>.</li>]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
       <SearchPattern><![CDATA[This is a <b>nationally recognised</b>&nbsp;statement of attainment (SITHFAB002) that is valid in the<b>&nbsp;ACT, QLD, WA, SA &amp; NT</b>]]></SearchPattern>
+      <ReplaceText><![CDATA[This is a <b>nationally recognised</b> statement of attainment (SITHFAB002) that is valid in <b>ACT, QLD, WA, NT &amp; TAS</b>]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[This is a <b>nationally recognised</b> statement of attainment (SITHFAB002) that is valid in <b>ACT, QLD, WA, NT, SA &amp; TAS</b>]]></SearchPattern>
       <ReplaceText><![CDATA[This is a <b>nationally recognised</b> statement of attainment (SITHFAB002) that is valid in <b>ACT, QLD, WA, NT &amp; TAS</b>]]></ReplaceText>
     </Action>
     <Action>
