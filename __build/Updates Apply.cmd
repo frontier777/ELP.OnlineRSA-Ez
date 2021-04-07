@@ -30,6 +30,7 @@ COPY "RSA-Online-SA-South-Australia-RSA-Certificate.html" "RSA-Online-SA.html"
 COPY "RSA-Online-TAS-Tasmania-RSA-Certificate.html" "RSA-Online-TAS.html"
 COPY "RSA-Online-VIC-Victoria-RSA-Certificate.html" "RSA-Online-Vic.html"
 COPY "RSA-Online-WA-Western-Australia-RSA-Certificate.html" "RSA-Online-WA.html"
+COPY "RSA-Online-6-State.html" "RSA-Online-All-State-6-State.html"
 POPD
 
 CD ..
