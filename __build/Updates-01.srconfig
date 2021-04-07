@@ -222,5 +222,105 @@
       <SearchPattern><![CDATA[© 2007-2018, Arrow Training &amp; eLearning Portal Pty Ltd]]></SearchPattern>
       <ReplaceText><![CDATA[Copyright &nbsp;5 Star Hospitality Training RTO# 45332&nbsp;© 2007-2018&nbsp; All rights reserved.]]></ReplaceText>
     </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-act -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-act -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-wa -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-wa -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-nt -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-nt -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-sa -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-sa -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-qld -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-qld -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-nsw -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-nsw -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-vic -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-vic -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-tas -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-tas -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-airlines -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-airlines -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-6state -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-6state -->
+
+
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>
   </Actions>
 </Config>
