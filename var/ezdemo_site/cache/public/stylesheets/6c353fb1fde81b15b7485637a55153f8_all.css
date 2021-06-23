@@ -8,3 +8,70 @@ ul.nav li#node_id_963 { display:none; }
 
 /* hide shopper approved */
 .shopperapproved_widget { display:none;}
+
+/* pricing grid styles start */
+
+.pricing_table
+{
+	background-color: #fcfcfc;
+	border-collapse: collapse;
+	width:100%
+}
+
+.pricing_table td
+{
+	padding: 0.25em;
+	border: solid 1px #d0d0d0;
+	vertical-align: middle;
+}
+
+.pricing_table .bundle_col
+{
+}
+
+.pricing_table .bundle_col_popular
+{
+	background-color: #f0f0f0
+}
+
+.pricing_table .item
+{
+}
+
+.pricing_table .title
+{
+	font-weight: bold;
+}
+
+.pricing_table .sub,
+.pricing_table .rrp
+{
+	color: #777;
+}
+
+.pricing_table .free
+{
+	color: green;
+}
+
+.pricing_table .rrp
+{
+	font-size: 80%
+}
+
+.pricing_table td:nth-child(5)
+{
+   display: none;
+}
+
+.pricing_table .savings_row
+{
+	font-size: 80%
+}
+
+.pricing_table tr.buttons_row td
+{
+	padding-top: 1em;
+}
+
+/* pricing grid styles end */
