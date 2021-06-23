@@ -1,0 +1,119 @@
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<!-- shopbegin-rsa-%state_abrv% -->.*<!-- shopend -->]]></SearchPattern>
+      <ReplaceText><![CDATA[<!-- shopbegin-rsa-%state_abrv% -->
+
+<a name="eztoc3086_0_2" id="eztoc3086_0_2"></a>
+<h3 class=" text-center"><a name="RSA_%STATE_ABRV%_Online_Bundle" id="RSA_%STATE_ABRV%_Online_Bundle"></a>Today's RSA Online Bundles</h3>
+
+<p><b>Receive an instant discount</b> just by giving our <b><a href="#RSA_%STATE_ABRV%_Online_Demo" target="_self">free trial</a></b> a go! Then select a bundle below and apply the coupon by clicking the &quot;Add a coupon&quot; link in the shopping cart.</p>
+
+<table class="pricing_table" summary="RSA ONLINE %STATE_ABRV% price bundles">
+<colgroup>
+	<col style="width:40%"></col>
+	<col class="bundle_col" style="width:15%"></col>
+	<col class="bundle_col" style="width:15%"></col>
+	<col class="bundle_col bundle_col_popular" style="width:15%"></col>
+	<col class="bundle_col" style="width:0%"></col>
+</colgroup>
+<tbody>
+<tr>
+	<td>
+		<span>Choose your employment<br />enhancing bundle<br />(* includes discount)</span>
+	</td>
+	<td class="text-center"><span class="title">RSA</span><br />$44*<br /><span class="rrp">RRP $79</span></td>
+	<td class="text-center"><span class="title">RSA+</span><br />$54*<br /><span class="rrp">RRP $124</span></td>
+	<td class="text-center"><span class="title">RSA++</span><br />$64*<br /><span class="rrp">RRP $154</span></td>
+	<td class="text-center"><span class="title">CLUB++</span><br />$94*<br /><span class="rrp">RRP $193</span></td>
+</tr>
+<tr>
+	<td class="item">
+		<span class="title">RSA Online Course (7 state)</span><br />
+		<span class="sub">VIC, WA, QLD, ACT, NT, SA, TAS</span>
+	</td>
+	<td class="text-center">YES</td>
+	<td class="text-center">YES</td>
+	<td class="text-center">YES</td>
+	<td class="text-center">YES</td>
+</tr>
+<tr>
+	<td class="item">
+		<span class="title">Online Wine Course <span class="free">FREE</span></span><br />
+		<span class="sub">Understanding Wine</span>
+	</td>
+	<td class="text-center">FREE</td>
+	<td class="text-center">FREE</td>
+	<td class="text-center">FREE</td>
+	<td class="text-center">FREE</td>
+</tr>
+<tr>
+	<td class="item">
+		<span class="title">Barista Basics</span><br />
+		<span class="sub">Non-accredited essential basics</span>
+	</td>
+	<td></td>
+	<td class="text-center">YES</td>
+	<td class="text-center">YES</td>
+	<td class="text-center">YES</td>
+</tr>
+<tr>
+	<td class="item">
+		<span class="title">Greeting &amp; Customer Service <span class="free">FREE</span></span><br />
+		<span class="sub">Non-accredited introduction</span>
+	</td>
+	<td></td>
+	<td></td>
+	<td class="text-center">FREE</td>
+	<td class="text-center">FREE</td>
+</tr>
+<tr>
+	<td class="item">
+		<span class="title">Workplace Hygiene Course</span><br />
+		<span class="sub">Non-accredited essential hygiene</span>
+	</td>
+	<td></td>
+	<td></td>
+	<td class="text-center">YES</td>
+	<td class="text-center">YES</td>
+</tr>
+<!--
+<tr>
+	<td class="item">
+		<span class="title">RSG Online Course</span><br />
+		<span class="sub">Valid in QLD, NT &amp accepted WA</span>
+	</td>
+	<td></td>
+	<td></td>
+	<td class="text-center"></td>
+	<td class="text-center">YES</td>
+</tr>
+-->
+<tr class="savings_row">
+	<td>
+		Total bundle saving off RRP<br />
+		(* includes SIMBAR discount)		
+	</td>
+	<td class="text-center">$35 saving</td>
+	<td class="text-center">$70 saving</td>
+	<td class="text-center">$90 saving</td>
+	<td class="text-center">$99 saving</td>
+</tr>
+<tr class="buttons_row">
+	<td>Get started now!</td>
+	<td class="text-center"><a href="https://elp.foxycart.com/cart?category=fst-sithfab002-%state_abrv%&code=fst-sithfab002-%state_abrv%&name=100%+ONLINE+Responsible+Service+of+Alcohol+SITHFAB002+valid+in+VIC,+WA,+QLD,+NT,+SA,+ACT+and+TAS&price=49.00&bundle=%state_abrv%-bar&2:category=elp-bundled&2:code=wnch-understanding&2:name=Free+Understanding+Wine+-+The+Top+10+Things+You+Need+to+Know&2:price=0.00&h:a=www.onlinersa.com.au&empty=true"><img src="..\..\extension\ptw_sitetweaks\design\eng\images\buttons\buttonsupbuynoweway.png" data-hover-src="/extension/ptw_sitetweaks/design/eng/images/buttons/buttonsdownbuynoweway.png" alt="Buy Now"></a></td>
+	<td class="text-center"><a href="https://elp.foxycart.com/cart?category=fst-sithfab002-%state_abrv%&code=fst-sithfab002-%state_abrv%&name=100%+ONLINE+Responsible+Service+of+Alcohol+SITHFAB002+valid+in+VIC,+WA,+QLD,+NT,+SA,+ACT+and+TAS&price=49.00&bundle=%state_abrv%-bar-plus&2:category=elp-bundled&2:code=wnch-understanding&2:name=Free+Understanding+Wine+-+The+Top+10+Things+You+Need+to+Know&2:price=0.00&3:category=elp-bundled&3:code=fst-brsbas&3:name=Barista+Basics+Non-accredited&3:price=10.00&h:a=www.onlinersa.com.au&4:category=elp-bundled&4:code=fst-hi-greet&4:name=Free+Hospitality+Induction+-+Greeting+and+Customer+Service+-+Non+Accredited&4:price=0.00&empty=true"><img src="..\..\extension\ptw_sitetweaks\design\eng\images\buttons\buttonsupbuynoweway.png" data-hover-src="/extension/ptw_sitetweaks/design/eng/images/buttons/buttonsdownbuynoweway.png" alt="Buy Now"></a></td>
+	<td class="text-center"><a href="https://elp.foxycart.com/cart?category=fst-sithfab002-%state_abrv%&code=fst-sithfab002-%state_abrv%&name=100%+ONLINE+Responsible+Service+of+Alcohol+SITHFAB002+valid+in+VIC,+WA,+QLD,+NT,+SA,+ACT+and+TAS&price=49.00&bundle=%state_abrv%-club&2:category=elp-bundled&2:code=wnch-understanding&2:name=Free+Understanding+Wine+-+The+Top+10+Things+You+Need+to+Know&2:price=0.00&3:category=elp-bundled&3:code=fst-brsbas&3:name=Barista+Basics+Non-accredited&3:price=10.00&4:category=elp-bundled&4:code=elp-whfh&4:name=Workplace+Hygiene+for+Food+Handlers+Non-accredited&4:price=10.00&5:category=elp-bundled&5:code=fst-hi-greet&5:name=Free+Hospitality+Induction+-+Greeting+and+Customer+Service+-+Non+Accredited&5:price=0.00&h:a=www.onlinersa.com.au&empty=true"><img src="..\..\extension\ptw_sitetweaks\design\eng\images\buttons\buttonsupbuynoweway.png" data-hover-src="/extension/ptw_sitetweaks/design/eng/images/buttons/buttonsdownbuynoweway.png" alt="Buy Now"></a></td>
+	<!--<td class="text-center"><a href="https://elp.foxycart.com/cart?category=fst-sithfab002-%state_abrv%&code=fst-sithfab002-%state_abrv%&name=100%+ONLINE+Responsible+Service+of+Alcohol+SITHFAB002+valid+in+VIC,+WA,+QLD,+NT,+SA,+ACT+and+TAS&price=49.00&bundle=%state_abrv%-club-plus&2:category=elp-bundled&2:code=wnch-understanding&2:name=Free+Understanding+Wine+-+The+Top+10+Things+You+Need+to+Know&2:price=0.00&3:category=elp-bundled&3:code=elp-whfh&3:name=Workplace+Hygiene+for+Food+Handlers+Non-accredited&3:price=10.00&4:category=elp-bundled&4:code=fst-sithgam001-qld&4:name=Provide+Responsible+Gaming+Services+-+Valid+in+QLD+NT+and+Accepted+in+WA&4:price=30.00&5:category=elp-bundled&5:code=fst-brsbas&5:name=Barista+Basics+Non-accredited&5:price=10.00&6:category=elp-bundled&6:code=fst-hi-greet&6:name=Free+Hospitality+Induction+-+Greeting+and+Customer+Service+-+Non+Accredited&6:price=0.00&h:a=www.onlinersa.com.au&empty=true"><img src="..\..\extension\ptw_sitetweaks\design\eng\images\buttons\buttonsupbuynoweway.png" data-hover-src="/extension/ptw_sitetweaks/design/eng/images/buttons/buttonsdownbuynoweway.png" alt="Buy Now"></a></td>-->
+	<!--<td class="text-center"><a href="https://elp.foxycart.com/cart?category=fst-rsansw-onl&code=fst-rsansw-onl&name=NSW+100%+ONLINE+Responsible+Service+of+Alcohol+Only+Valid+in+NSW,+Also+Includes+$70+Photo+Competency+Card+Fee+Also+Includes+100%+ONLINE+Responsible+Service+of+Alcohol+Valid+in+WA,+QLD,+NT,+SA,+TAS+ACT+SITHFAB002&price=134.00&bundle=QLD-Traveller&2:category=elp-bundled&2:code=wnch-understanding&2:name=Free+Understanding+Wine+-+The+Top+10+Things+You+Need+to+Know&2:price=0.00&3:category=elp-bundled&3:code=elp-whfh&3:name=Workplace+Hygiene+for+Food+Handlers+Non-accredited&3:price=10.00&4:category=elp-bundled&4:code=fst-sithgam001-qld&4:name=Provide+Responsible+Gaming+Services+-+Valid+in+QLD+NT+and+Accepted+in+WA&4:price=30.00&5:category=elp-bundled&5:code=fst-brsbas&5:name=Barista+Basics+Non-accredited&5:price=10.00&6:category=elp-bundled&6:code=fst-hi-greet&6:name=Free+Hospitality+Induction+-+Greeting+and+Customer+Service+-+Non+Accredited&6:price=0.00&h:a=www.onlinersa.com.au&empty=true"><img src="..\..\extension\ptw_sitetweaks\design\eng\images\buttons\buttonsupbuynoweway.png" data-hover-src="/extension/ptw_sitetweaks/design/eng/images/buttons/buttonsdownbuynoweway.png" alt="Buy Now"></a></td>-->
+</tr>
+
+</tbody>
+</table>
+
+<p class="text-right">
+	<img src="..\..\var\ezdemo_site\storage\images\media\images\carbon-neutral-rsa-and-cc-accepted\6634-3-eng-AU\carbon-neutral-rsa-and-cc-accepted.png" alt="Carbon neutral RSA &amp; all major credit cards accpeted" class="embed-inline-right">
+</p>
+
+<!-- shopend -->]]></ReplaceText>
+    </Action>

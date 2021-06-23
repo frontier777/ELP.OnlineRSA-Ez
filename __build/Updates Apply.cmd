@@ -15,6 +15,9 @@ SET file2=%~2%
 REM PUSHD ..\rsa
 CD ..\rsa
 "%searchreplaceexe%" "..\__build\Updates-01.srconfig" *.html /Recurse
+"%searchreplaceexe%" "..\__build\Updates-01-Shop-NAT.srconfig" *.html /Recurse
+"%searchreplaceexe%" "..\__build\Updates-01-Shop-VIC.srconfig" *.html /Recurse
+"%searchreplaceexe%" "..\__build\Updates-01-Shop-NSW.srconfig" *.html /Recurse
 REM /Backup
 REM /First
 REM /Verbose
