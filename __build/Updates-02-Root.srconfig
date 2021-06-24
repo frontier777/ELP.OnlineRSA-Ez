@@ -73,5 +73,36 @@
       <SearchPattern><![CDATA[{"frameCount":1,"id":35,"type":7,"tags":[{"depth":1,"id":34,"type":3,"matrix":0}]]></SearchPattern>
       <ReplaceText><![CDATA[{"frameCount":1,"id":35,"type":7,"tags":[{"depth":1,"id":2,"type":3,"matrix":0}]]></ReplaceText>
     </Action>
+
+	<!-- replace Google Analytics with Google Tag Manager -->
+    <Action>
+      <SearchEscape>false</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[(?s)<script>\n  \(function\(i,s,o,g,r,a,m\).*ga\('send', 'pageview'\);]]></SearchPattern>
+      <ReplaceText><![CDATA[
+<!-- googletagmanagerstart -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1539547-5"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-1539547-5');
+</script>
+<!-- googletagmanagerend -->
+
+<script>
+	  ]]></ReplaceText>
+	<!-- old
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1539547-5', 'auto');
+  ga('require', 'GTM-NVBCBK8');
+  ga('send', 'pageview');
+	-->
+    </Action>
+
   </Actions>
 </Config>
