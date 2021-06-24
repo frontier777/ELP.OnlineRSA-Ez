@@ -67,6 +67,8 @@
       <SearchPattern><![CDATA[RTO# 45332]]></SearchPattern>
       <ReplaceText><![CDATA[RTO #45332]]></ReplaceText>
     </Action>
+	
+	<!-- Fix map -->
     <Action>
       <SearchEscape>true</SearchEscape>
       <ReplaceEscape>false</ReplaceEscape>
