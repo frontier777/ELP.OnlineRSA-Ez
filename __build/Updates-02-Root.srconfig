@@ -121,5 +121,41 @@ gtag('config', 'UA-1539547-5');
       <ReplaceText><![CDATA[]]></ReplaceText>
     </Action>
 
+
+	<!-- Remove Visa 500 requirement -->
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li>An Australian residential and postal address - We do not accept VISA 500 Students.</li>]]></SearchPattern>
+      <ReplaceText><![CDATA[]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li>Not valid for international students on a subclass 500 Visa&nbsp;</li>]]></SearchPattern>
+      <ReplaceText><![CDATA[]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li>Students travelling on a subclass 500 Visa <a href="Student-Travelling-on-Subclass-500-Visas-and-RSA-Training.html" target="_self">click here</a>.</li>]]></SearchPattern>
+      <ReplaceText><![CDATA[]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li>Students travelling on a subclass 500 Visa&nbsp;<a href="Student-Travelling-on-Subclass-500-Visas-and-RSA-Training.html" target="_self">click here</a></li>]]></SearchPattern>
+      <ReplaceText><![CDATA[]]></ReplaceText>
+    </Action>
+    <Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[<li><b>Students travelling on a subclass 500 Visa&nbsp;<a href="Student-Travelling-on-Subclass-500-Visas-and-RSA-Training.html" target="_self">click here</a></b></li>]]></SearchPattern>
+      <ReplaceText><![CDATA[]]></ReplaceText>
+    </Action>
+
+
+
+
   </Actions>
 </Config>
