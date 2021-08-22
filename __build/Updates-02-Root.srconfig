@@ -155,6 +155,13 @@ gtag('config', 'UA-1539547-5');
     </Action>
 
 
+	<!-- Update to Foxycart 2 -->
+	<Action>
+      <SearchEscape>true</SearchEscape>
+      <ReplaceEscape>false</ReplaceEscape>
+      <SearchPattern><![CDATA[https://a.elearningportal.com.au/shop/onlinersa/shop.js]]></SearchPattern>
+      <ReplaceText><![CDATA[https://a.enrolo.com/shop-jq.js]]></ReplaceText>
+    </Action>
 
 
   </Actions>
